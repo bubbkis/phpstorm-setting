@@ -1,0 +1,292 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/activate_guidance.ctp" timestamp="1507285654082">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/edit.ctp" timestamp="1507257984169">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="56" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1507025947397">
+        <mark key="[" line="633" column="14" />
+        <mark key="]" line="633" column="13" />
+        <mark key="^" line="633" column="13" />
+        <mark key="." line="633" column="13" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_detail.ctp" timestamp="1507278954100">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/index.ctp" timestamp="1507270091023">
+        <mark key="[" line="28" column="182" />
+        <mark key="]" line="28" column="184" />
+        <mark key="^" line="28" column="184" />
+        <mark key="." line="28" column="184" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/user_info.ctp" timestamp="1507281437892">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507284550457">
+        <mark key="'" line="522" column="0" />
+        <mark key="[" line="761" column="8" />
+        <mark key="]" line="765" column="22" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507284903461">
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="0" />
+        <mark key="^" line="339" column="49" />
+        <mark key="." line="339" column="0" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Model/RequestHistory.php" timestamp="1507016760599">
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="79" column="70" />
+        <mark key="^" line="79" column="70" />
+        <mark key="." line="79" column="70" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Items/index.ctp" timestamp="1507612662182">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="26" column="10" />
+        <mark key="^" line="82" column="9" />
+        <mark key="." line="82" column="9" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/html5.ctp" timestamp="1507262538672">
+        <mark key="[" line="61" column="1" />
+        <mark key="]" line="71" column="1" />
+        <mark key="^" line="71" column="1" />
+        <mark key="." line="71" column="1" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Users/inquiry_confirm.ctp" timestamp="1507280540746">
+        <mark key="[" line="35" column="56" />
+        <mark key="]" line="35" column="75" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/paginator.ctp" timestamp="1507612455341">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="60" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" timestamp="1507613430014">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Request.php" timestamp="1507092384470">
+        <mark key="[" line="180" column="61" />
+        <mark key="]" line="180" column="50" />
+        <mark key="^" line="180" column="50" />
+        <mark key="." line="180" column="50" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/search_input.ctp" timestamp="1507613332879">
+        <mark key="[" line="9" column="198" />
+        <mark key="]" line="9" column="197" />
+        <mark key="^" line="9" column="197" />
+        <mark key="." line="9" column="197" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Users/edit_confirm.ctp" timestamp="1507275087403">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="28" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507606473603">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/reserved_guidance.ctp" timestamp="1507280543972">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="90" />
+        <mark key="^" line="41" column="69" />
+        <mark key="." line="41" column="70" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Items/search.php" timestamp="1507612637286">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/regist.ctp" timestamp="1507282124778">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="33" column="38" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Item.php" timestamp="1507613708615">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Config/hash.php" timestamp="1507016824274">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="56" />
+        <mark key="^" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Pages/index.ctp" timestamp="1507272962884">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1507613790191">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="87" column="8" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/carousel.ctp" timestamp="1507272731026">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="8" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/edit_email.ctp" timestamp="1507612574462">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="5" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Items/search.ctp" timestamp="1507614548683">
+        <mark key="[" line="26" column="220" />
+        <mark key="]" line="26" column="219" />
+        <mark key="^" line="26" column="219" />
+        <mark key="." line="26" column="219" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/CartsController.php" timestamp="1507269408952">
+        <mark key="[" line="102" column="59" />
+        <mark key="]" line="102" column="62" />
+        <mark key="." line="102" column="62" />
+        <mark key="^" line="102" column="62" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="12" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="280" column="0" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="313" column="27" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="321" column="36" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="377" column="35" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="385" column="23" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="425" column="31" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="430" column="23" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="523" column="15" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="562" column="31" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="573" column="36" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="617" column="36" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="688" column="15" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="711" column="27" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="715" column="61" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="39" column="19" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="71" column="23" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="85" column="31" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="86" column="71" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="91" column="34" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="94" column="92" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="95" column="30" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="99" column="37" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="100" column="30" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="102" column="30" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="38" column="24" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="39" column="23" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="44" column="26" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="55" column="42" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="56" column="26" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="90" column="133" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
+      <jump line="360" column="57" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="445" column="54" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="522" column="0" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>create</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgovLzwhW0NEQVRBWwokKGZ1bmN0aW9uICgpIHsKICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgewogICAgICAgICQoJy5tb2RhbCcpLm1vZGFsKCdzaG93Jyk7CiAgICB9KTsKfSk7CmZ1bmN0aW9uIGFqYXhNZXRob2QoKSB7CiAgICAkLmFqYXgoewogICAgICAgIHVybDogIjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPnVybChhcnJheSgiY29udHJvbGxlciI9PiJjYXJ0cyIsICJhY3Rpb24iPT4iYWRkLyIuaCgkaXRlbVskbW9kZWxOYW1lXVsiaWQiXSkpKTsgPz4iLAogICAgICAgIHR5cGU6ICJHRVQiLAogICAgICAgIGRhdGE6IHsgaWQgOiAiPD9waHAgZWNobyBoKCRpdGVtWyRtb2RlbE5hbWVdWyJpZCJdKTsgPz4iIH0sCiAgICAgICAgZGF0YVR5cGU6ICJ0ZXh0IiwKICAgICAgICBzdWNjZXNzIDogZnVuY3Rpb24ocmVzcG9uc2UpewogICAgICAgICAgICAvL5LKkE2QrIz3jp6CzI+Il50KICAgICAgICAgICAgYWxlcnQocmVzcG9uc2UpOwogICAgICAgIH0sCiAgICAgICAgZXJyb3I6IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIC8vksqQTY64lHOOnoLMj4iXnQogICAgICAgICAgICBhbGVydCgnksqQTYLJjriUc4K1gtyCtYK9gUInKTsKICAgICAgICB9CiAgICB9KTsKfQovL11dPgo8L3NjcmlwdD4=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcubW9kYWwnKS5tb2RhbCgnc2hvdycpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JChmdW5jdGlvbiAoKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNlbnRlci1ibG9jayI+PHAgY2xhc3M9InRleHQtY2VudGVyIj48c3Ryb25nIGNsYXNzPSJ0ZXh0LWRhbmdlciI+QGRyaWNvbS1mcmllbmRzLm5ldIKpgueCzIOBgVuDi47zkE2C8IuWicKCtYLEgqiCooLEibqCs4KigUI8L3N0cm9uZz48L3A+PC9kaXY+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPC9vbD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZW52ZWxvcGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+IIOBgVuDi4NBg2iDjINYgsyTb5heL5XPjVg8L2xpPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+PD9waHAgZWNobyAkdGhpcy0+SHRtbC0+bGluaygnPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24taG9tZSIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4nLl9fKCcgg3qBW4OAJyksICIvdXNlcnMvIiwgYXJyYXkoImVzY2FwZSI9PmZhbHNlKSk7ID8+PC9saT4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>create</last-search>
+      <last-offset />
+      <last-pattern>create</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxEaWRlXD4=</entry>
+        <entry>Session</entry>
+        <entry>category_id</entry>
+        <entry>to_char</entry>
+        <entry>SHA_KEY</entry>
+        <entry>activate_key</entry>
+        <entry>create</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
