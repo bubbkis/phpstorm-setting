@@ -149,6 +149,12 @@
         <mark key="^" line="26" column="71" />
         <mark key="." line="26" column="71" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1507630589178">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/carousel.ctp" timestamp="1507272731026">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="27" column="14" />
@@ -216,7 +222,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHdvcmQtYnJlYWs6IGJyZWFrLWFsbDs=</text>
@@ -225,34 +231,34 @@
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHN0eWxlPSJvdmVyZmxvdy13cmFwOiBicmVhay13b3JkOyI=</text>
+        <text encoding="base64">PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IiByb2xlPSJtZW51Ij4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24taGVhZGVyIj6QaYp3g0uDQ4Nfg5ODWILMjpaRT5BcgrWNnoLdgrWCxJKZgt+C6TwvbGk+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBub3JtYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWVkdWNhdGlvbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4nLl9fKCcgkGmKd4NLg0ODX4OTg1iCzJdclvEnKSwgIi9pdGVtcy9pbmRleC8iLklURU1fR1VJREFOQ0VfQ0FURUdPUlksIGFycmF5KCJlc2NhcGUiPT5mYWxzZSkpOyA/PjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+PD9waHAgZWNobyAkdGhpcy0+SHRtbC0+bGluaygnPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tbGlzdC1hbHQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+Jy5fXygnIJBpineDS4NDg1+Dk4NYgsyXXJbxjc+C3Yjql5cnKSwgIi9yZXF1ZXN0cy9yZXNlcnZlZEd1aWRhbmNlTGlzdCIsIGFycmF5KCJlc2NhcGUiPT5mYWxzZSkpOyA/PjwvbGk+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAubGluZS1icmVhayB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48P3BocCBlY2hvICR0aGlzLT5IdG1sLT5saW5rKCc8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1jb21tZW50IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyCCqJdGkkKC8I+1kdKCt4LpJyksICIvaW52aXRhdGlvbnMiLCBhcnJheSgiZXNjYXBlIj0+ZmFsc2UpKTsgPz48L2xpPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHN0eWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24taGVhZGVyIj6CqJdGkkKC8I+1kdKCtYLEkpmC34LpPC9saT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
