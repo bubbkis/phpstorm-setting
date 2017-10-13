@@ -56,19 +56,19 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507887628406">
-        <mark key="'" line="385" column="55" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507887875127">
+        <mark key="'" line="522" column="35" />
         <mark key="[" line="142" column="74" />
         <mark key="]" line="144" column="73" />
         <mark key="." line="144" column="73" />
         <mark key="^" line="144" column="73" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507887708388">
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507888536225">
         <mark key="'" line="185" column="39" />
-        <mark key="[" line="88" column="32" />
-        <mark key="]" line="89" column="24" />
-        <mark key="^" line="89" column="24" />
-        <mark key="." line="89" column="24" />
+        <mark key="[" line="156" column="109" />
+        <mark key="]" line="156" column="107" />
+        <mark key="^" line="156" column="107" />
+        <mark key="." line="156" column="107" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/RequestHistory.php" timestamp="1507878341516">
         <mark key="[" line="8" column="0" />
@@ -280,7 +280,6 @@
       <jump line="90" column="133" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
       <jump line="360" column="57" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="445" column="54" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="522" column="0" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="17" column="4" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
       <jump line="18" column="9" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
       <jump line="19" column="13" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
@@ -370,56 +369,57 @@
       <jump line="185" column="51" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
       <jump line="337" column="51" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
       <jump line="184" column="39" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
+      <jump line="522" column="35" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnNldEZsYXNoKCKT/JfNgsmM64LogqqCoILogtyCt4FCk+CXZYLwim2URoK1gsSCrYK+grOCooFCIiwgIm1zZ19kYW5nZXIiLCBhcnJheSgpLCAiZGFuZ2VyIik7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>rollback</text>
+        <text>Exception</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnNldEZsYXNoKCKT/JfNgsmM64LogqqCoILogtyCt4FCk+CXZYLwim2URoK1gsSCrYK+grOCooFCIiwgIm1zZ19kYW5nZXIiLCBhcnJheSgpLCAiZGFuZ2VyIik7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZGQK</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5jb21taXQoKTsK</text>
+        <text encoding="base64">CQkJCQkJCXsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJJGtleSA9ICJ3YXJuaW5nIjsK</text>
+        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5jb21taXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJJGVsZW1lbnQgPSAibXNnX3dhcm5pbmciOwo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJJG1lc3NhZ2UgPSAik2+YXpDmg4GBW4OLg0GDaIOMg1iURo/Yjp6CyYNHg4mBW4KqlK2QtoK1gtyCtYK9gUKNxJN4gUGURo/YgvCNc4LBgsSCrYK+grOCooFCIjsK</text>
+        <text encoding="base64">CQkJCQkJJGtleSA9ICJ3YXJuaW5nIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJJHRoaXMtPlVzZXItPnJvbGxiYWNrKCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJJGVsZW1lbnQgPSAibXNnX3dhcm5pbmciOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJLy8gVHJhbnNhY3Rpb24gcm9sbGJhY2sK</text>
+        <text encoding="base64">CQkJCQkJJG1lc3NhZ2UgPSAik2+YXpDmg4GBW4OLg0GDaIOMg1iURo/Yjp6CyYNHg4mBW4KqlK2QtoK1gtyCtYK9gUKNxJN4gUGURo/YgvCNc4LBgsSCrYK+grOCooFCIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQkJCQkJJHRoaXMtPlVzZXItPnJvbGxiYWNrKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rollback</last-search>
+      <last-search>Exception</last-search>
       <last-offset />
-      <last-pattern>rollback</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>Exception</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -436,9 +436,9 @@
         <entry>Router</entry>
         <entry>getInvitaion</entry>
         <entry>getInvitation</entry>
-        <entry>Exception</entry>
         <entry>getMessage</entry>
         <entry>rollback</entry>
+        <entry>Exception</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
