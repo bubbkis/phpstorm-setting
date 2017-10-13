@@ -56,18 +56,18 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507714706682">
-        <mark key="'" line="124" column="28" />
-        <mark key="[" line="761" column="8" />
-        <mark key="]" line="765" column="22" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507882049604">
+        <mark key="'" line="735" column="49" />
+        <mark key="[" line="383" column="0" />
+        <mark key="]" line="383" column="0" />
+        <mark key="." line="383" column="0" />
+        <mark key="^" line="382" column="75" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507880723801">
-        <mark key="[" line="331" column="90" />
-        <mark key="]" line="331" column="72" />
-        <mark key="^" line="331" column="72" />
-        <mark key="." line="331" column="72" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507880832097">
+        <mark key="[" line="335" column="44" />
+        <mark key="]" line="336" column="46" />
+        <mark key="^" line="336" column="46" />
+        <mark key="." line="336" column="46" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/RequestHistory.php" timestamp="1507878341516">
         <mark key="[" line="8" column="0" />
@@ -331,55 +331,59 @@
       <jump line="27" column="19" filename="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/index_list.ctp" />
       <jump line="124" column="28" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="670" column="13" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" />
+      <jump line="751" column="95" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="356" column="50" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="649" column="38" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="735" column="49" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5yb2xsYmFjaygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnNldEZsYXNoKCKURo/Yjp6CyYNHg4mBW4KqlK2QtoK1gtyCtYK9gUIiLCAibXNnX2RhbmdlciIsIGFycmF5KCksICJkYW5nZXIiKTs=</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Router</text>
+        <text>getInvitation</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Ly8gg0yDg4OTg3mBW4OTilmTlpdMlrODYINGg2KDTgoJCSRyZXN1bHRDYW1wYWlnbiA9ICR0aGlzLT5fY2hlY2tDYW1wYWlnbigpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5yb2xsYmFjaygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJJHJlc3VsdCA9IHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQkJJHRoaXMtPlVzZXItPmJlZ2luKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCSRyZXN1bHQgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJCQkJJAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJfQo=</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJfQo=</text>
+        <text encoding="base64">CQkJCQkJCQkkdGhpcy0+VXNlci0+Y29tbWl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCSR0aGlzLT5SZXF1ZXN0LT5jb21taXQoKTsK</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">CQkJCQkJCWlmICgkcmVzdWx0ID09PSB0cnVlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Router</last-search>
+      <last-search>getInvitation</last-search>
       <last-offset />
-      <last-pattern>Router</last-pattern>
+      <last-pattern>getInvitation</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -395,6 +399,7 @@
         <entry>cartItems</entry>
         <entry>title</entry>
         <entry>Router</entry>
+        <entry>getInvitation</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
