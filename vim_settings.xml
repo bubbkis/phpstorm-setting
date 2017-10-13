@@ -56,18 +56,19 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507887037854">
-        <mark key="'" line="126" column="59" />
-        <mark key="[" line="384" column="68" />
-        <mark key="]" line="384" column="76" />
-        <mark key="." line="384" column="76" />
-        <mark key="^" line="384" column="76" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507887628406">
+        <mark key="'" line="385" column="55" />
+        <mark key="[" line="142" column="74" />
+        <mark key="]" line="144" column="73" />
+        <mark key="." line="144" column="73" />
+        <mark key="^" line="144" column="73" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507880832097">
-        <mark key="[" line="335" column="44" />
-        <mark key="]" line="336" column="46" />
-        <mark key="^" line="336" column="46" />
-        <mark key="." line="336" column="46" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507887708388">
+        <mark key="'" line="185" column="39" />
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="89" column="24" />
+        <mark key="^" line="89" column="24" />
+        <mark key="." line="89" column="24" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/RequestHistory.php" timestamp="1507878341516">
         <mark key="[" line="8" column="0" />
@@ -269,20 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="31" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="573" column="36" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="617" column="36" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="688" column="15" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="711" column="27" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="715" column="61" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="39" column="19" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="71" column="23" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="85" column="31" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="86" column="71" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
-      <jump line="91" column="34" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
-      <jump line="94" column="92" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
-      <jump line="95" column="30" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
-      <jump line="99" column="37" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
       <jump line="100" column="30" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
       <jump line="102" column="30" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
       <jump line="38" column="24" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" />
@@ -369,6 +356,20 @@
       <jump line="113" column="90" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="121" column="104" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="126" column="59" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="359" column="54" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="144" column="73" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="524" column="35" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="525" column="47" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="690" column="35" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="691" column="47" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="141" column="39" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="142" column="51" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="384" column="43" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="385" column="55" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="336" column="35" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
+      <jump line="185" column="51" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
+      <jump line="337" column="51" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
+      <jump line="184" column="39" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +379,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>getMessage</text>
+        <text>rollback</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnNldEZsYXNoKCKT/JfNgsmM64LogqqCoILogtyCt4FCk+CXZYLwim2URoK1gsSCrYK+grOCooFCIiwgIm1zZ19kYW5nZXIiLCBhcnJheSgpLCAiZGFuZ2VyIik7</text>
@@ -415,9 +416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getMessage</last-search>
+      <last-search>rollback</last-search>
       <last-offset />
-      <last-pattern>getMessage</last-pattern>
+      <last-pattern>rollback</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -437,6 +438,7 @@
         <entry>getInvitation</entry>
         <entry>Exception</entry>
         <entry>getMessage</entry>
+        <entry>rollback</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
