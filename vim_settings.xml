@@ -56,12 +56,12 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507882049604">
-        <mark key="'" line="735" column="49" />
-        <mark key="[" line="383" column="0" />
-        <mark key="]" line="383" column="0" />
-        <mark key="." line="383" column="0" />
-        <mark key="^" line="382" column="75" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1507882758056">
+        <mark key="'" line="751" column="21" />
+        <mark key="[" line="458" column="89" />
+        <mark key="]" line="458" column="0" />
+        <mark key="^" line="457" column="65" />
+        <mark key="." line="458" column="0" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1507880832097">
         <mark key="[" line="335" column="44" />
@@ -332,13 +332,18 @@
       <jump line="124" column="28" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="670" column="13" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" />
       <jump line="751" column="95" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="735" column="49" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="354" column="50" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="356" column="50" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="649" column="38" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
-      <jump line="735" column="49" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="759" column="20" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="362" column="58" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="650" column="38" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
+      <jump line="752" column="21" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5yb2xsYmFjaygpOwo=</text>
+        <text encoding="base64">CQkJCSRyZXN1bHQgPSB0cnVlOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -350,31 +355,31 @@
         <text encoding="base64">Ly8gg0yDg4OTg3mBW4OTilmTlpdMlrODYINGg2KDTgoJCSRyZXN1bHRDYW1wYWlnbiA9ICR0aGlzLT5fY2hlY2tDYW1wYWlnbigpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5yb2xsYmFjaygpOwo=</text>
+        <text encoding="base64">CQkJCSRyZXN1bHQgPSB0cnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJJHJlc3VsdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5Vc2VyLT5iZWdpbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJJHRoaXMtPlVzZXItPmJlZ2luKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJJAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCQkkdGhpcy0+VXNlci0+Y29tbWl0KCk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJCWlmICgkcmVzdWx0ID09PSB0cnVlKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCQkJJHJlc3VsdCA9IHRydWU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJCSR0aGlzLT5Vc2VyLT5yb2xsYmFjaygpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJJHJlc3VsdCA9IHRydWU7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJJHRoaXMtPlVzZXItPmJlZ2luKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
