@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/activate_guidance.ctp" timestamp="1507689244133">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Config/const.php" timestamp="1507701345445">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="49" />
@@ -176,7 +171,6 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="8" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_list.ctp" timestamp="1507715646808" />
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/items.ctp" timestamp="1507627956285">
         <mark key="[" line="29" column="87" />
         <mark key="]" line="29" column="146" />
@@ -188,11 +182,6 @@
         <mark key="]" line="37" column="133" />
         <mark key="^" line="37" column="133" />
         <mark key="." line="37" column="133" />
-      </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/CartsController.php" timestamp="1507697690358">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/breadcrumb.ctp" timestamp="1507703723658">
         <mark key="[" line="9" column="4" />
