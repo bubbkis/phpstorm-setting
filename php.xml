@@ -1,4 +1,14 @@
 <application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\Users\bubbkis\OneDrive\Php\php-5.3.29-Win32-VC9-x86\php.exe" id="1eaea0ca-dc11-425d-bd31-f6a964f27709" name="PHP5.3" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\bubbkis\OneDrive\Php\php-5.4.45-Win32-VC9-x86\php.exe" id="2806d891-061a-4858-80b3-8a09c8a90185" name="PHP5.4" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\bubbkis\OneDrive\Php\php-5.5.37-Win32-VC11-x64\php.exe" id="1abdeeeb-1999-4a89-8b15-a7125019a444" name="PHP5.5" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\bubbkis\OneDrive\Php\php-5.6.31-Win32-VC11-x64\php.exe" id="fe9e071b-88da-42d0-ae0d-ffe3e910cc51" name="PHP5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\bubbkis\OneDrive\Php\php-7.0.24-Win32-VC14-x64\php.exe" id="52082796-bf2e-431a-86f5-b1bbd71e487f" name="PHP7.0" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\bubbkis\OneDrive\Php\php-7.1.10-Win32-VC14-x64\php.exe" id="5b25314c-4777-4ff5-928b-cc66e326ebe4" name="PHP7.1" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP5.6">
