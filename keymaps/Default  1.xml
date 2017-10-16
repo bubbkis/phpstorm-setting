@@ -1,0 +1,8 @@
+<keymap version="1" name="Default コピー 1" parent="$default">
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToCamelCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
