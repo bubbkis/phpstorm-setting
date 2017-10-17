@@ -15,11 +15,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1508205320998">
-        <mark key="[" line="678" column="39" />
-        <mark key="]" line="678" column="39" />
-        <mark key="." line="678" column="39" />
-        <mark key="^" line="678" column="39" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1508205783015">
+        <mark key="[" line="661" column="67" />
+        <mark key="]" line="661" column="66" />
+        <mark key="." line="661" column="66" />
+        <mark key="^" line="661" column="66" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/index.ctp" timestamp="1507860342215">
         <mark key="[" line="50" column="143" />
@@ -473,8 +473,8 @@
       <jump line="340" column="29" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcChhcnJheV9zZWFyY2goJHYsICRsaXN0KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>「初めての資料請求キャンペーン!!」を適用出来ません。</text>
       </register>
       <register name="-" type="4">
         <text>);</text>
@@ -483,7 +483,7 @@
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text>array_search($v, $list)</text>
+        <text>「初めての資料請求キャンペーン!!」を適用出来ません。</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQl2YXJfZHVtcChhcnJheV9zZWFyY2goJHYsICRsaXN0KSk7Cg==</text>
