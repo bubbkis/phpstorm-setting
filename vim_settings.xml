@@ -129,11 +129,11 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/map.ctp" timestamp="1508225510874">
-        <mark key="[" line="66" column="124" />
-        <mark key="]" line="66" column="114" />
-        <mark key="^" line="66" column="114" />
-        <mark key="." line="66" column="114" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/map.ctp" timestamp="1508228053820">
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="5" />
+        <mark key="^" line="113" column="5" />
+        <mark key="." line="113" column="5" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Invitation.php" timestamp="1507878361196">
         <mark key="[" line="8" column="0" />
@@ -480,44 +480,48 @@
       <jump line="340" column="29" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIiBvbmNsaWNrPSJhamF4TWV0aG9kKCk7Ij48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1zaG9wcGluZy1jYXJ0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPiZuYnNwO4NKgVuDZ4LJk/yC6oLpPC9idXR0b24+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAoJGkgJSAyKSA9PSAwID8gIiIgOiAiYWN0aXZlIjsgPz4=</text>
+        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIiBvbmNsaWNrPSJpbml0TWFwKCk7Ij48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1tYXAtbWFya2VyIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPiZuYnNwO4y7jd2SboLwlVyOpjwvYnV0dG9uPg==</text>
       </register>
       <register name="/" type="4">
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIiBvbmNsaWNrPSJhamF4TWV0aG9kKCk7Ij48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1zaG9wcGluZy1jYXJ0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPiZuYnNwO4NKgVuDZ4LJk/yC6oLpPC9idXR0b24+</text>
+        <text encoding="base64">PGRpdiBpZD0ibWFwIiBzdHlsZT0id2lkdGg6NDAwcHg7IGhlaWdodDozMDBweCI+PC9kaXY+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPHRyIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0idG9wIiB0aXRsZT0ig06DioNig06CtYLEPD9waHAgLy9lY2hvICRNLT5nZXRMYWJlbCgiaXRlbV9jb250ZW50Iik7ID8+gvCVXI6mIiBvbmNsaWNrPSJzaG93X2hpZGVfcm93KCdjb250ZW50Xzw/cGhwIC8vZWNobyBoKCRpdGVtWyJpZCJdKTsgPz4nKTsiPiAtLT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPHRyIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0idG9wIiB0aXRsZT0ig06DioNig06CtYLEPD9waHAgLy9lY2hvICRNLT5nZXRMYWJlbCgiY29udGVudCIpOyA/PoLwlVyOpiIgb25jbGljaz0ic2hvd19oaWRlX3JvdygnY29udGVudF88P3BocCAvL2VjaG8gaCgkaXRlbVskbW9kZWxOYW1lXVsiaWQiXSk7ID8+Jyk7Ij4gLS0+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gR2VvbG9jYXRpb24gQVBJgsmRzomegrWCxIKigsiCogo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyCDR4OJgVuDgYNig1qBW4NXgvCVXI6mCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>// エラーコード(error.code)の番号
+                    // 0:UNKNOWN_ERROR				原因不明のエラー
+                    // 1:PERMISSION_DENIED			利用者が位置情報の取得を許可しなかった
+                    // 2:POSITION_UNAVAILABLE		電波状況などで位置情報が取得できなかった
+                    // 3:TIMEOUT					位置情報の取得に時間がかかり過ぎた…</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZXJyb3JNZXNzYWdlID0gIluDR4OJgVuU1I2GOiAiICsgZXJyb3JObyArICJdXG4iICsgZXJyb3JJbmZvWyBlcnJvck5vIF0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyCDR4OJgVuDgYNig1qBW4NXCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
