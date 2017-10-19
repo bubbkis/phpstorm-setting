@@ -15,17 +15,23 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/edit.ctp" timestamp="1508404628228">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1508391764012">
         <mark key="[" line="682" column="44" />
         <mark key="]" line="685" column="49" />
         <mark key="." line="661" column="66" />
         <mark key="^" line="661" column="66" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/index.ctp" timestamp="1508224682139">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="50" column="140" />
-        <mark key="^" line="50" column="140" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/index.ctp" timestamp="1508404603620">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/user_info.ctp" timestamp="1507281437892">
         <mark key="[" line="2" column="46" />
@@ -207,6 +213,7 @@
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="30" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/edit_confirm.ctp" timestamp="1508404645341" />
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_detail.ctp" timestamp="1507865991540">
         <mark key="[" line="7" column="108" />
         <mark key="]" line="6" column="119" />
@@ -352,6 +359,12 @@
         <mark key="]" line="46" column="60" />
         <mark key="^" line="46" column="60" />
         <mark key="." line="46" column="60" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/activate_mail.ctp" timestamp="1508404616196">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/breadcrumb.ctp" timestamp="1507796729410">
         <mark key="[" line="13" column="65" />
