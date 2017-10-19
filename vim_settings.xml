@@ -15,9 +15,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1508205783015">
-        <mark key="[" line="661" column="67" />
-        <mark key="]" line="661" column="66" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1508391764012">
+        <mark key="[" line="682" column="44" />
+        <mark key="]" line="685" column="49" />
         <mark key="." line="661" column="66" />
         <mark key="^" line="661" column="66" />
       </file>
@@ -305,17 +305,17 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Pages/index.ctp" timestamp="1507864001068">
-        <mark key="[" line="15" column="128" />
-        <mark key="]" line="15" column="114" />
-        <mark key="." line="15" column="114" />
-        <mark key="^" line="15" column="114" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Pages/index.ctp" timestamp="1508393041245">
+        <mark key="[" line="3" column="76" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+        <mark key="^" line="3" column="74" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1508224824643">
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="183" />
-        <mark key="^" line="58" column="61" />
-        <mark key="." line="58" column="61" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1508392441885">
+        <mark key="[" line="23" column="170" />
+        <mark key="]" line="23" column="173" />
+        <mark key="^" line="23" column="173" />
+        <mark key="." line="23" column="173" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1508233583621">
         <mark key="[" line="0" column="30" />
@@ -323,11 +323,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1508387185403">
-        <mark key="[" line="79" column="64" />
-        <mark key="]" line="79" column="65" />
-        <mark key="^" line="79" column="65" />
-        <mark key="." line="79" column="65" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1508393127749">
+        <mark key="[" line="71" column="49" />
+        <mark key="]" line="71" column="44" />
+        <mark key="^" line="71" column="44" />
+        <mark key="." line="71" column="44" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/history.ctp" timestamp="1508218318157">
         <mark key="[" line="24" column="74" />
@@ -458,7 +458,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzLT5wYXJhbXNbInVybCJdWyJpdGVtX2lkIl0pKSB7CgkJCSRpdGVtX2lkID0gJHRoaXMtPnBhcmFtc1sidXJsIl1bIml0ZW1faWQiXTsKCQkJLy8gZ2V0IEl0ZW0KCQkJJHBhcmFtcyA9IGFycmF5KCJjb25kaXRpb25zIj0+YXJyYXkoIkl0ZW0uaWQiPT4kaXRlbV9pZCwKCQkJCQkJCQkJCQkJIkl0ZW0uZmxnIj0+bnVsbCksCgkJCQkJCQkpOwoJCQkkaXRlbSA9ICR0aGlzLT5JdGVtLT5maW5kKCJmaXJzdCIsICRwYXJhbXMpOwoJCQkkdGhpcy0+c2V0KCJpdGVtIiwgJGl0ZW0pOwogICAgICAgIH0=</text>
+        <text encoding="base64">ZWNobyAkdGhpcy0+ZWxlbWVudCgiTGF5b3V0cy9tb2RhbCI=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IlJlcXVlc3RIaXN0b3J5LmNyZWF0ZWQgPiI9PmRhdGUoIlktbS1kIEg6aTpzIiwgc3RydG90aW1lKCItMSB3ZWVrcyIpKQ==</text>
@@ -467,38 +467,34 @@
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzLT5wYXJhbXNbInVybCJdWyJpdGVtX2lkIl0pKSB7CgkJCSRpdGVtX2lkID0gJHRoaXMtPnBhcmFtc1sidXJsIl1bIml0ZW1faWQiXTsKCQkJLy8gZ2V0IEl0ZW0KCQkJJHBhcmFtcyA9IGFycmF5KCJjb25kaXRpb25zIj0+YXJyYXkoIkl0ZW0uaWQiPT4kaXRlbV9pZCwKCQkJCQkJCQkJCQkJIkl0ZW0uZmxnIj0+bnVsbCksCgkJCQkJCQkpOwoJCQkkaXRlbSA9ICR0aGlzLT5JdGVtLT5maW5kKCJmaXJzdCIsICRwYXJhbXMpOwoJCQkkdGhpcy0+c2V0KCJpdGVtIiwgJGl0ZW0pOwogICAgICAgIH0=</text>
+        <text encoding="base64">ZWNobyAkdGhpcy0+ZWxlbWVudCgiTGF5b3V0cy9tb2RhbCI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">PD9waHAgZWNobyA/Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIkl0ZW0uaWQiPT4kY2FydEl0ZW1zLAo=</text>
+        <text encoding="base64">JG1vZGFsID0gYXJyYXkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">PD9waHAgaWYoaXNzZXQoJGl0ZW0pKSBlY2hvICR0aGlzLT5lbGVtZW50KCJMYXlvdXRzL21vZGFsIik7ID8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gR2VvbG9jYXRpb24gQVBJgsmRzomegrWCxIKigsiCogo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyCDR4OJgVuDgYNig1qBW4NXgvCVXI6mCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIkl0ZW0uaWQiPT4kY2FydEl0ZW1zLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>// エラーコード(error.code)の番号
-                    // 0:UNKNOWN_ERROR				原因不明のエラー
-                    // 1:PERMISSION_DENIED			利用者が位置情報の取得を許可しなかった
-                    // 2:POSITION_UNAVAILABLE		電波状況などで位置情報が取得できなかった
-                    // 3:TIMEOUT					位置情報の取得に時間がかかり過ぎた…</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gR2VvbG9jYXRpb24gQVBJgsmRzomegrWCxIKigsiCogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
