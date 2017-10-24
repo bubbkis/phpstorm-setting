@@ -208,11 +208,12 @@
         <mark key="." line="5" column="274" />
         <mark key="^" line="5" column="266" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/default.ctp" timestamp="1508752897703">
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="91" column="50" />
-        <mark key="." line="91" column="50" />
-        <mark key="^" line="91" column="50" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/default.ctp" timestamp="1508813824964">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="103" column="61" />
+        <mark key="]" line="103" column="54" />
+        <mark key="." line="103" column="54" />
+        <mark key="^" line="103" column="54" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_detail.ctp" timestamp="1507865991540">
         <mark key="[" line="7" column="108" />
@@ -294,11 +295,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/index_grid.ctp" timestamp="1508752791775">
-        <mark key="[" line="87" column="333" />
-        <mark key="]" line="87" column="332" />
-        <mark key="." line="87" column="332" />
-        <mark key="^" line="87" column="332" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/index_grid.ctp" timestamp="1508812039985">
+        <mark key="[" line="87" column="255" />
+        <mark key="]" line="87" column="257" />
+        <mark key="." line="87" column="257" />
+        <mark key="^" line="87" column="257" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/msg_info.ctp" timestamp="1508134514135">
         <mark key="[" line="2" column="51" />
@@ -331,11 +332,11 @@
         <mark key="^" line="43" column="70" />
         <mark key="." line="43" column="70" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1508493862463">
-        <mark key="[" line="32" column="149" />
-        <mark key="]" line="32" column="168" />
-        <mark key="^" line="32" column="168" />
-        <mark key="." line="32" column="168" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1508812264325">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="31" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1508472673683">
         <mark key="[" line="92" column="4" />
@@ -355,11 +356,11 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/CartsController.php" timestamp="1508752220567">
-        <mark key="[" line="90" column="58" />
-        <mark key="]" line="90" column="75" />
-        <mark key="." line="90" column="75" />
-        <mark key="^" line="90" column="75" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/CartsController.php" timestamp="1508813683494">
+        <mark key="[" line="104" column="22" />
+        <mark key="]" line="104" column="21" />
+        <mark key="." line="104" column="21" />
+        <mark key="^" line="104" column="21" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Users/regist_input.ctp" timestamp="1508125078492">
         <mark key="[" line="46" column="60" />
@@ -381,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/index_list.ctp" />
-      <jump line="22" column="13" filename="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/index_list.ctp" />
       <jump line="27" column="19" filename="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Items/index_list.ctp" />
       <jump line="124" column="28" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
       <jump line="751" column="95" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
@@ -481,10 +480,12 @@
       <jump line="340" column="29" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
       <jump line="670" column="137" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" />
       <jump line="74" column="20" filename="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" />
+      <jump line="93" column="11" filename="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/default.ctp" />
+      <jump line="18" column="0" filename="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/default.ctp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5Gb3JtLT5idXR0b24oKTsgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9wPg==</text>
@@ -493,34 +494,35 @@
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+Rm9ybS0+YnV0dG9uKCc8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1wbGF5IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyAnLiRidXR0b25OYW1lKSwgYXJyYXkoInR5cGUiPT4ic3VibWl0IiwgImNsYXNzIj0+ImJ0biBidG4tc3VjY2VzcyBidG4tbGcgYnRuLWJsb2NrIGNlbnRlci1ibG9jayIsICJkaXNhYmxlZCI9PiJkaXNhYmxlZCIsICJlc2NhcGUiPT5mYWxzZSkpOyA/Pg==</text>
+        <text>$('#ajaxAddCart_' + item_id).attr('enabled', true);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5Gb3JtLT5idXR0b24oKTsgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAoV1dXX1JPT1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJGNudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJGNudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vImZpZWxkcyI9PmFycmF5KCJSZXF1ZXN0SGlzdG9yeS5yZXF1ZXN0X2lkIiwgImNvdW50KFJlcXVlc3RIaXN0b3J5LmlkKSBhcyBSZXF1ZXN0SGlzdG9yeV9fY291bnQiKSwK</text>
+      <register name="5" type="4">
+        <text>var cnt = $('#cntCart').text();
+            $('#cntCart').text(Number(cnt) + 1);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8kdGhpcy0+UmVxdWVzdEhpc3RvcnktPnZpcnR1YWxGaWVsZHNbIlJlcXVlc3RIaXN0b3J5LmNvdW50Il0gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoY250KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCSJoYXZpbmciPT5hcnJheSgiY291bnQoKikgPj0gNyIpLAo=</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJGNudENsaWVudENvdXJzZUl0ZW1zKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2FkZENhcnRfJyArIGl0ZW1faWQpLmF0dHIoJ2Rpc2FibGVkJywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5Gb3JtLT5idXR0b24oKTsgPz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
