@@ -118,6 +118,7 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Config/email.php" timestamp="1509944861150" />
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Item.php" timestamp="1507878357029">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -517,8 +518,8 @@
       <jump line="334" column="12" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQkndGxzJyA9PiB0cnVlLA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PD9waHAgaWYgKCFlbXB0eSgkbG9naW5Vc2VyWyRmbGRdKSk6ID8+</text>
@@ -527,7 +528,7 @@
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PD9waHAgJGZsZD0gJ2VtYWlsJzs/Pgo8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIGZvcm0tZ3JvdXAtbGciPgogIDxsYWJlbCBjbGFzcz0iY29sLXNtLTMgY29udHJvbC1sYWJlbCIgZm9yPSJJbnB1dF88P3BocCBlY2hvICRmbGQ7ID8+Ij48P3BocCBlY2hvICRNLT5nZXRMYWJlbCgkZmxkKTs/Pjw/cGhwIGVjaG8gJE0tPmdldFJlcXVpcmVTdHJpbmcoJGZsZCkgPz48L2xhYmVsPgogIDxkaXYgY2xhc3M9ImNvbC1zbS05Ij48cCBjbGFzcz0iZm9ybS1jb250cm9sLXN0YXRpYyI+PD9waHAgZWNobyBoKCR0aGlzLT5yZXF1ZXN0LT5kYXRhWyRtb2RlbE5hbWVdWyRmbGRdKTsgPz48L3A+PC9kaXY+CjwvZGl2Pg==</text>
+        <text encoding="base64">CQkndGxzJyA9PiB0cnVlLA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
