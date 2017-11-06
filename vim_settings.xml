@@ -64,6 +64,12 @@
         <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/Emails/text/default.ctp" timestamp="1509942448158">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
       <file name="F:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1507949247625">
         <mark key="[" line="661" column="65" />
         <mark key="]" line="661" column="62" />
@@ -608,6 +614,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
