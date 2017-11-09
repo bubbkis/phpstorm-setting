@@ -178,6 +178,12 @@
         <mark key="^" line="12" column="101" />
         <mark key="." line="12" column="101" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Users/edit_email.ctp" timestamp="1510198950382">
+        <mark key="[" line="20" column="116" />
+        <mark key="]" line="20" column="184" />
+        <mark key="^" line="20" column="184" />
+        <mark key="." line="20" column="184" />
+      </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_list.ctp" timestamp="1507798377072">
         <mark key="[" line="18" column="49" />
         <mark key="]" line="18" column="38" />
@@ -524,8 +530,8 @@
       <jump line="334" column="12" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHJlcXVlc3RlZEl0ZW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoImF1gsyDgYFbg4uDQYNog4yDWChAZXp3ZWIubmUuanApgsyO85BNg4qDWINnkN2S6JX7lkCCzYKxgr+C5yIsICJodHRwczovL3d3dy5hdS5jb20vc3VwcG9ydC9zZXJ2aWNlL21vYmlsZS90cm91YmxlL21haWwvZW1haWwvZmlsdGVyL2RldGFpbC9kb21haW4vIiwgYXJyYXkoInRhcmdldCI9PiJfYmxhbmsiKSk7ID8+PC9saT4=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;お申込内容を確認出来ません。カートの中を確認してください。&quot;</text>
@@ -534,7 +540,7 @@
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnNldEZsYXNoKCIxg5aMjojIk+CCyYKokFyNnoLdjc+C3YLMj6SVaYLNjvOVdILFgquC3IK5gvGBQpHOj9uDZoFbg16C8I3tj5yCtYLcgrWCvYFCIiwgIm1zZ193YXJuaW5nIiwgYXJyYXkoKSwgInN1Y2Nlc3MiKTs=</text>
+        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoImF1gsyDgYFbg4uDQYNog4yDWChAZXp3ZWIubmUuanApgsyO85BNg4qDWINnkN2S6JX7lkCCzYKxgr+C5yIsICJodHRwczovL3d3dy5hdS5jb20vc3VwcG9ydC9zZXJ2aWNlL21vYmlsZS90cm91YmxlL21haWwvZW1haWwvZmlsdGVyL2RldGFpbC9kb21haW4vIiwgYXJyYXkoInRhcmdldCI9PiJfYmxhbmsiKSk7ID8+PC9saT4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyX2R1bXAoJHJlcXVlc3RlZEl0ZW1zKTsK</text>
