@@ -384,11 +384,11 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1510120722531">
-        <mark key="[" line="70" column="16" />
-        <mark key="]" line="81" column="16" />
-        <mark key="^" line="81" column="16" />
-        <mark key="." line="81" column="16" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1510284405428">
+        <mark key="[" line="92" column="61" />
+        <mark key="]" line="92" column="60" />
+        <mark key="^" line="92" column="60" />
+        <mark key="." line="92" column="60" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/footer.ctp" timestamp="1508495454388">
         <mark key="[" line="1" column="9" />
@@ -531,7 +531,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoImF1gsyDgYFbg4uDQYNog4yDWChAZXp3ZWIubmUuanApgsyO85BNg4qDWINnkN2S6JX7lkCCzYKxgr+C5yIsICJodHRwczovL3d3dy5hdS5jb20vc3VwcG9ydC9zZXJ2aWNlL21vYmlsZS90cm91YmxlL21haWwvZW1haWwvZmlsdGVyL2RldGFpbC9kb21haW4vIiwgYXJyYXkoInRhcmdldCI9PiJfYmxhbmsiKSk7ID8+PC9saT4=</text>
+        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzLT5wYXJhbXNbInVybCJdWyJzcF9pZCJdKSkgewoJCQkkaXRlbV9pZCA9ICR0aGlzLT5wYXJhbXNbInVybCJdWyJzcF9pZCJdOwoJCQkvLyBnZXQgSXRlbQoJCQkkcGFyYW1zID0gYXJyYXkoImNvbmRpdGlvbnMiPT5hcnJheSgiSXRlbS5pZCI9PiRpdGVtX2lkLAoJCQkJCQkJCQkJCQkiSXRlbS5jYXRlZ29yeV9pZCI9Pjk5OTk5OSwKCQkJCQkJCQkJCQkJIkl0ZW0uZmxnIj0+bnVsbCwKCQkJCQkJCQkJCQkJJGNvbmRpdGlvbnMpLAoJCQkJCQkJKTsKCQkJJHNwZWNpYWwgPSAkdGhpcy0+SXRlbS0+ZmluZCgiZmlyc3QiLCAkcGFyYW1zKTsKCQkJaWYgKCFlbXB0eSgkc3BlY2lhbCkpICR0aGlzLT5zZXQoY29tcGFjdCgic3BlY2lhbCIsICJtb2RhbCIpKTsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>&quot;お申込内容を確認出来ません。カートの中を確認してください。&quot;</text>
@@ -540,7 +540,7 @@
         <text>Exception</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoImF1gsyDgYFbg4uDQYNog4yDWChAZXp3ZWIubmUuanApgsyO85BNg4qDWINnkN2S6JX7lkCCzYKxgr+C5yIsICJodHRwczovL3d3dy5hdS5jb20vc3VwcG9ydC9zZXJ2aWNlL21vYmlsZS90cm91YmxlL21haWwvZW1haWwvZmlsdGVyL2RldGFpbC9kb21haW4vIiwgYXJyYXkoInRhcmdldCI9PiJfYmxhbmsiKSk7ID8+PC9saT4=</text>
+        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzLT5wYXJhbXNbInVybCJdWyJzcF9pZCJdKSkgewoJCQkkaXRlbV9pZCA9ICR0aGlzLT5wYXJhbXNbInVybCJdWyJzcF9pZCJdOwoJCQkvLyBnZXQgSXRlbQoJCQkkcGFyYW1zID0gYXJyYXkoImNvbmRpdGlvbnMiPT5hcnJheSgiSXRlbS5pZCI9PiRpdGVtX2lkLAoJCQkJCQkJCQkJCQkiSXRlbS5jYXRlZ29yeV9pZCI9Pjk5OTk5OSwKCQkJCQkJCQkJCQkJIkl0ZW0uZmxnIj0+bnVsbCwKCQkJCQkJCQkJCQkJJGNvbmRpdGlvbnMpLAoJCQkJCQkJKTsKCQkJJHNwZWNpYWwgPSAkdGhpcy0+SXRlbS0+ZmluZCgiZmlyc3QiLCAkcGFyYW1zKTsKCQkJaWYgKCFlbXB0eSgkc3BlY2lhbCkpICR0aGlzLT5zZXQoY29tcGFjdCgic3BlY2lhbCIsICJtb2RhbCIpKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyX2R1bXAoJHJlcXVlc3RlZEl0ZW1zKTsK</text>
