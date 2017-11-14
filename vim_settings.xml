@@ -58,9 +58,9 @@
         <mark key="." line="629" column="38" />
         <mark key="^" line="629" column="38" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Items/index.ctp" timestamp="1508834401252">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="32" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Items/index.ctp" timestamp="1510641890665">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="274" />
         <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
       </file>
@@ -360,17 +360,16 @@
         <mark key="^" line="115" column="39" />
         <mark key="." line="115" column="39" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Pages/index.ctp" timestamp="1510284965452">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Pages/index.ctp" timestamp="1510642911192">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1510289122280">
-        <mark key="[" line="167" column="98" />
-        <mark key="]" line="167" column="95" />
-        <mark key="^" line="167" column="95" />
-        <mark key="." line="167" column="95" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1510642867836">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/ImageMessageHandler.php" timestamp="1508401635409">
         <mark key="[" line="43" column="71" />
@@ -384,10 +383,11 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1510289782178">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1510643038786">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="109" column="8" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/footer.ctp" timestamp="1508495454388">
         <mark key="[" line="1" column="9" />
@@ -533,40 +533,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkkdGhpcy0+YXV0b1JlbmRlciA9IGZhbHNlOw==</text>
+        <text>// ModalWindow enable/disable Setting</text>
       </register>
       <register name="/" type="4">
         <text>service_id</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ly8gZ2V0IGFkZFBvaW50CgkJCQkJCSR0aGlzLT5yZXF1ZXN0LT5kYXRhWyJQb2ludCJdID0gYXJyYXkoCgkJCQkJCQkidXNlcl9pZCIgPT4gJHJlcXVlc3RIaXN0b3J5WyJSZXF1ZXN0SGlzdG9yeSJdWyJ1c2VyX2lkIl0sCgkJCQkJCQkic2VydmljZV9pZCIgPT4gIjQiLAoJCQkJCQkJInJlcXVlc3RfaWQiID0+ICRyZXF1ZXN0SGlzdG9yeVsiUmVxdWVzdEhpc3RvcnkiXVsicmVxdWVzdF9pZCJdLAoJCQkJCQkJInBvaW50IiA9PiBBQ1RJVkFURV9HVUlEQU5DRV9QT0lOVCwKCQkJCQkJCSJsb2ciID0+ICKXXJbxjc+C3YNLg0ODX4OTg1iJ74/qgUYiIC4gJHJlcXVlc3RIaXN0b3J5WyJSZXF1ZXN0SGlzdG9yeSJdWyJpdGVtX25hbWUiXSAuICKC1oLMgrKXiI/qk8GTVIN8g0ODk4NngvBHRVSCtYLcgrWCvYFCIik7CgkJCQkJCSR0aGlzLT5Qb2ludC0+Y3JlYXRlKCk7CgkJCQkJCWlmICghJHRoaXMtPlBvaW50LT5zYXZlKCR0aGlzLT5yZXF1ZXN0LT5kYXRhWyJQb2ludCJdKSkgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOw==</text>
+        <text>// ModalWindow enable/disable Setting
+			$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGxvZ2luVXNlcik7Cg==</text>
+      <register name="3" type="4">
+        <text>// ModalWindow enable/disable Setting
+		$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+QXV0aC0+dXNlcigpKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJInJlcXVlc3RfaWQiID0+ICRyZXF1ZXN0SGlzdG9yeVsiUmVxdWVzdEhpc3RvcnkiXVsicmVxdWVzdF9pZCJdLAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZWNobyAkdGhpcy0+SHRtbC0+bGluaygnPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tb2stc2lnbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4nLl9fKCcgJyksICIvIiwgYXJyYXkoImNsYXNzIj0+ImJ0biBidG4tbGcgYnRuLWJsb2NrIGJ0bi1kZWVwb3JhbmdlNjAwcnNkIiwgImVzY2FwZSI9PmZhbHNlKSkgPz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWJvZHkiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkiY3JlYXRlZCA+Ij0+ZGF0ZSgiWS1tLWQgSDppOnMiLCBzdHJ0b3RpbWUoIi0xIG1vbnRoIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJycsIGFycmF5KCJ0eXBlIj0+ImJ1dHRvbiIsICJjbGFzcyI9PiJidG4gYnRuLXBpbmszMDBfcnNkIGJ0bi1zbSIsICJkYXRhLXRvZ2dsZSI9PiJtb2RhbCIsICJkYXRhLXRhcmdldCI9PiIjaXRlbXNIZWxwTW9kYWwiLCAiZXNjYXBlIj0+ZmFsc2UpKTsgPz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
