@@ -275,11 +275,11 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511763577216">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511764722147">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1507944588967">
         <mark key="[" line="0" column="0" />
@@ -293,7 +293,7 @@
         <mark key="^" line="595" column="50" />
         <mark key="." line="595" column="50" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1511763540189">
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1511764266992">
         <mark key="'" line="351" column="29" />
         <mark key="[" line="181" column="26" />
         <mark key="]" line="181" column="20" />
@@ -318,7 +318,7 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" timestamp="1510126201702">
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/ItemsController.php" timestamp="1511764593798">
         <mark key="'" line="124" column="37" />
         <mark key="[" line="31" column="38" />
         <mark key="]" line="31" column="64" />
@@ -541,7 +541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkY2FydEl0ZW1zID0gJHRoaXMtPl9zZWFyY2hSZXF1ZXN0SGlzdG9yaWVzKCRjYXJ0SXRlbXMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -554,32 +554,31 @@
 			$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkY2FydEl0ZW1zID0gJHRoaXMtPl9zZWFyY2hSZXF1ZXN0SGlzdG9yaWVzKCRjYXJ0SXRlbXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkkY2FydEl0ZW1zID0gJHRoaXMtPl9nZXRDYXJ0SXRlbXMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkvLyBnZXQgQ2FydCdzIGluIEl0ZW1zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZiAoaXNzZXQoJHRoaXMtPnJlcXVlc3QtPnBhcmFtc1sibmFtZWQiXVsiY291cnNlX2lkIl0pKSAkdGhpcy0+U2Vzc2lvbi0+d3JpdGUoIkl0ZW0uY291cnNlX2lkIiwgJHRoaXMtPnJlcXVlc3QtPnBhcmFtc1sibmFtZWQiXVsiY291cnNlX2lkIl0pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Zm9yZWFjaCgkY2FydEl0ZW1zIGFzICRrZXkgPT4gJHZhbHVlKSB7CgkJCSR0bXBJdGVtc1tdID0gJHZhbHVlOwoJCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGhyIC8+Cg==</text>
+        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJG1vZGFsWyJpdGVtc0hlbHBNb2RhbCJdID0gImVuYWJsZSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJJHRoaXMtPlNlc3Npb24tPndyaXRlKCJJdGVtcy5tb2RhbF8iLiRwYXJlbnRDYXRlZ29yeUlkLCAiZW5hYmxlIik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>// ModalWindow enable/disable Setting
-		$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlpZiAoZW1wdHkoJHNlc3Npb25bIm1vZGFsXyIuJHBhcmVudENhdGVnb3J5SWRdKSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
