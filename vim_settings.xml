@@ -21,6 +21,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Guidance.php" timestamp="1511763379452">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1510825627460">
         <mark key="'" line="689" column="137" />
         <mark key="[" line="651" column="11" />
@@ -269,6 +275,12 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511763577216">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+      </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1507944588967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -281,23 +293,18 @@
         <mark key="^" line="595" column="50" />
         <mark key="." line="595" column="50" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1510290245697">
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/RequestsController.php" timestamp="1511763540189">
         <mark key="'" line="351" column="29" />
-        <mark key="[" line="391" column="4" />
-        <mark key="]" line="392" column="0" />
-        <mark key="^" line="392" column="0" />
-        <mark key="." line="392" column="0" />
+        <mark key="[" line="181" column="26" />
+        <mark key="]" line="181" column="20" />
+        <mark key="^" line="181" column="20" />
+        <mark key="." line="181" column="20" />
       </file>
       <file name="F:/Develop/Sites/dricom-friends.net/app/View/Carts/index.ctp" timestamp="1507948501129">
         <mark key="[" line="21" column="120" />
         <mark key="]" line="21" column="248" />
         <mark key="." line="21" column="248" />
         <mark key="^" line="21" column="248" />
-      </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Layouts/html5.ctp" timestamp="1510042616449">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/msg_danger.ctp" timestamp="1508134537374">
         <mark key="[" line="2" column="45" />
@@ -323,6 +330,9 @@
         <mark key="]" line="79" column="5" />
         <mark key="^" line="80" column="11" />
         <mark key="." line="80" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1511763405142">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/reserved_guidance.ctp" timestamp="1507690092531">
         <mark key="[" line="7" column="0" />
@@ -531,7 +541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -544,32 +554,32 @@
 			$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Zm9yZWFjaCgkY2FydEl0ZW1zIGFzICRrZXkgPT4gJHZhbHVlKSB7CgkJCSR0bXBJdGVtc1tdID0gJHZhbHVlOwoJCX0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PGhyIC8+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>// ModalWindow enable/disable Setting
 		$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
