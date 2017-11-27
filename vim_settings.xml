@@ -46,6 +46,18 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Guidances/index_grid.ctp" timestamp="1511769875623">
+        <mark key="[" line="56" column="172" />
+        <mark key="]" line="56" column="156" />
+        <mark key="^" line="56" column="156" />
+        <mark key="." line="56" column="156" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Guidances/breadcrumb.ctp" timestamp="1511769556281">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="F:/Develop/Sites/dricom-friends.net/app/Model/User.php" timestamp="1508077098060">
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
@@ -190,9 +202,9 @@
         <mark key="^" line="20" column="184" />
         <mark key="." line="20" column="184" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_list.ctp" timestamp="1510291097541">
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="41" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_list.ctp" timestamp="1511769764810">
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="50" column="287" />
         <mark key="^" line="38" column="41" />
         <mark key="." line="38" column="41" />
       </file>
@@ -275,11 +287,11 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511767710970">
-        <mark key="[" line="84" column="67" />
-        <mark key="]" line="84" column="33" />
-        <mark key="^" line="84" column="33" />
-        <mark key="." line="84" column="33" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511769409728">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="67" />
+        <mark key="^" line="19" column="67" />
+        <mark key="." line="19" column="67" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1507944588967">
         <mark key="[" line="0" column="0" />
@@ -330,6 +342,12 @@
         <mark key="]" line="79" column="5" />
         <mark key="^" line="80" column="11" />
         <mark key="." line="80" column="11" />
+      </file>
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Guidances/index.ctp" timestamp="1511769454954">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1511763405142">
         <mark key="[" line="0" column="0" />
@@ -541,7 +559,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvL2lmICgkcGFyZW50Q2F0ZWdvcnlJZCA9PSBJVEVNX0dVSURBTkNFX0NBVEVHT1JZKSAkb3JkZXIgPSAidG9fbnVtYmVyKHN1YnN0cmluZyhJdGVtLm5hbWUgZnJvbSAnWzAtOV0uKiQnKSwgJzk5OTk5OTk5OTknKSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -550,34 +568,34 @@
         <text>service_id</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;min(Item.status) as \&quot;Item__status\&quot;&quot;,</text>
+        <text encoding="base64">PHA+PD9waHAgZWNobyAkdGhpcy0+SHRtbC0+bGluaygnPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tcXJjb2RlIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyBRUoLwlVyOpicpLCAiL3JlcXVlc3RzL3Jlc2VydmVkR3VpZGFuY2VEZXRhaWwvIi4kcmVxdWVzdEhpc3RvcnlbJG1vZGVsTmFtZV1bImlkIl0sIGFycmF5KCJjbGFzcyI9PiJidG4gYnRuLWJsb2NrIGJ0bi1tZCBidG4tIi4kY2xhc3NbImJ0biJdLCAiZXNjYXBlIj0+ZmFsc2UpKTsgPz48L3A+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvL2lmICgkcGFyZW50Q2F0ZWdvcnlJZCA9PSBJVEVNX0dVSURBTkNFX0NBVEVHT1JZKSAkb3JkZXIgPSAidG9fbnVtYmVyKHN1YnN0cmluZyhJdGVtLm5hbWUgZnJvbSAnWzAtOV0uKiQnKSwgJzk5OTk5OTk5OTknKSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZWNobyAkdGhpcy0+Rm9ybS0+YnV0dG9uKCc8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1xcmNvZGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+Jy5fXygnIINKgVuDZ4LJk/yC6oLpJyksIGFycmF5KCJ0eXBlIj0+ImJ1dHRvbiIsICJjbGFzcyI9PiJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIGJ0bi1tZCBidG4tYmxvY2siLCAib25jbGljayI9PiJhamF4QWRkQ2FydCgiLmgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pLiIpIiwgImlkIj0+ImFqYXhBZGRDYXJ0XyIuaCgkaXRlbVskbW9kZWxOYW1lXVsiaWQiXSksICJlc2NhcGUiPT5mYWxzZSkpOyA/Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSksCg==</text>
+        <text encoding="base64">CQkJCQkJCTw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlhcnJheSgiSXRlbS5leHBpcmUgPj0iPT5kYXRlKCJZLW0tZCBIOmk6cyIpKSwK</text>
+        <text encoding="base64">CQkJCQkJCQk8P3BocCAvL2VjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXNob3BwaW5nLWNhcnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+JyAuIF9fKCcgg0qBW4NngsmT/ILqguknKSwgIiMiLCBhcnJheSgiY2xhc3MiID0+ICJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIGJ0bi1tZCBidG4tYmxvY2siLCAiZGlzYWJsZWQiID0+ICJkaXNhYmxlZCIsICJlc2NhcGUiID0+IGZhbHNlKSk7ID8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlhcnJheSgiSXRlbS5leHBpcmUiPT5udWxsKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5Gb3JtLT5idXR0b24oJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXNob3BwaW5nLWNhcnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+Jy5fXygnIINKgVuDZ4LJk/yC6oLpJyksIGFycmF5KCJ0eXBlIj0+ImJ1dHRvbiIsICJjbGFzcyI9PiJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIGJ0bi1tZCBidG4tYmxvY2siLCAib25jbGljayI9PiJhamF4QWRkQ2FydCgiLmgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pLiIpIiwgImlkIj0+ImFqYXhBZGRDYXJ0XyIuaCgkaXRlbVskbW9kZWxOYW1lXVsiaWQiXSksICJkaXNhYmxlZCI9PiJkaXNhYmxlZCIsICJlc2NhcGUiPT5mYWxzZSkpOyA/Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSJPUiI9PmFycmF5KAo=</text>
+        <text encoding="base64">CQkJCQkJCTw/cGhwIGVsc2U6ID8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYXJyYXkoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChhcnJheV9zZWFyY2goJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0sICRjYXJ0SXRlbXMpID09PSBmYWxzZSAmJiAkdG90YWxQb2ludCA+PSAkaXRlbVskbW9kZWxOYW1lXVsicG9pbnQiXSk6ID8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCAvL2VjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXNob3BwaW5nLWNhcnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+JyAuIF9fKCcgg0qBW4NngsmT/ILqguknKSwgIi9jYXJ0cy9hZGQvIiAuIGgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pLCBhcnJheSgiY2xhc3MiID0+ICJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIGJ0bi1tZCBidG4tYmxvY2siLCAiZXNjYXBlIiA9PiBmYWxzZSkpOyA/Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
