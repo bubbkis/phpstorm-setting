@@ -275,11 +275,11 @@
         <mark key="^" line="7" column="97" />
         <mark key="." line="7" column="97" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511766815418">
-        <mark key="[" line="35" column="89" />
-        <mark key="]" line="35" column="75" />
-        <mark key="^" line="35" column="75" />
-        <mark key="." line="35" column="75" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/GuidancesController.php" timestamp="1511767710970">
+        <mark key="[" line="84" column="67" />
+        <mark key="]" line="84" column="33" />
+        <mark key="^" line="84" column="33" />
+        <mark key="." line="84" column="33" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1507944588967">
         <mark key="[" line="0" column="0" />
@@ -541,7 +541,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkkY2F0ZWdvcnlLZXkgPSAiY2F0ZWdvcnlfaWRfIi4kcGFyZW50Q2F0ZWdvcnlJZDsK</text>
+        <text encoding="base64">CQkvL2lmICgkcGFyZW50Q2F0ZWdvcnlJZCA9PSBJVEVNX0dVSURBTkNFX0NBVEVHT1JZKSAkb3JkZXIgPSAidG9fbnVtYmVyKHN1YnN0cmluZyhJdGVtLm5hbWUgZnJvbSAnWzAtOV0uKiQnKSwgJzk5OTk5OTk5OTknKSI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -550,35 +550,34 @@
         <text>service_id</text>
       </register>
       <register name="0" type="4">
-        <text>// ModalWindow enable/disable Setting
-			$modal[&quot;offerModal&quot;] = &quot;enable&quot;;</text>
+        <text>&quot;min(Item.status) as \&quot;Item__status\&quot;&quot;,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkY2F0ZWdvcnlLZXkgPSAiY2F0ZWdvcnlfaWRfIi4kcGFyZW50Q2F0ZWdvcnlJZDsK</text>
+        <text encoding="base64">CQkvL2lmICgkcGFyZW50Q2F0ZWdvcnlJZCA9PSBJVEVNX0dVSURBTkNFX0NBVEVHT1JZKSAkb3JkZXIgPSAidG9fbnVtYmVyKHN1YnN0cmluZyhJdGVtLm5hbWUgZnJvbSAnWzAtOV0uKiQnKSwgJzk5OTk5OTk5OTknKSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkY2FydEl0ZW1zID0gJHRoaXMtPl9zZWFyY2hSZXF1ZXN0SGlzdG9yaWVzKCRjYXJ0SXRlbXMpOwo=</text>
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkY2FydEl0ZW1zID0gJHRoaXMtPl9nZXRDYXJ0SXRlbXMoKTsK</text>
+        <text encoding="base64">CQkJKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBnZXQgQ2FydCdzIGluIEl0ZW1zCg==</text>
+        <text encoding="base64">CQkJCSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoaXNzZXQoJHRoaXMtPnJlcXVlc3QtPnBhcmFtc1sibmFtZWQiXVsiY291cnNlX2lkIl0pKSAkdGhpcy0+U2Vzc2lvbi0+d3JpdGUoIkl0ZW0uY291cnNlX2lkIiwgJHRoaXMtPnJlcXVlc3QtPnBhcmFtc1sibmFtZWQiXVsiY291cnNlX2lkIl0pOwo=</text>
+        <text encoding="base64">CQkJCQlhcnJheSgiSXRlbS5leHBpcmUgPj0iPT5kYXRlKCJZLW0tZCBIOmk6cyIpKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQlhcnJheSgiSXRlbS5leHBpcmUiPT5udWxsKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQkJCSJPUiI9PmFycmF5KAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJG1vZGFsWyJpdGVtc0hlbHBNb2RhbCJdID0gImVuYWJsZSI7Cg==</text>
+        <text encoding="base64">CQkJYXJyYXkoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPlNlc3Npb24tPndyaXRlKCJJdGVtcy5tb2RhbF8iLiRwYXJlbnRDYXRlZ29yeUlkLCAiZW5hYmxlIik7Cg==</text>
+        <text encoding="base64">CQkJKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
