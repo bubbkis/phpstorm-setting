@@ -45,11 +45,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Guidances/index_grid.ctp" timestamp="1511927517755">
-        <mark key="[" line="65" column="211" />
-        <mark key="]" line="65" column="210" />
-        <mark key="^" line="65" column="210" />
-        <mark key="." line="65" column="210" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Guidances/index_grid.ctp" timestamp="1511934247977">
+        <mark key="[" line="64" column="168" />
+        <mark key="]" line="64" column="166" />
+        <mark key="^" line="64" column="166" />
+        <mark key="." line="64" column="166" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Guidances/breadcrumb.ctp" timestamp="1511769556281">
         <mark key="[" line="11" column="0" />
@@ -237,11 +237,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Js/js.ctp" timestamp="1510286807863">
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="33" />
-        <mark key="^" line="71" column="33" />
-        <mark key="." line="71" column="33" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Js/js.ctp" timestamp="1511934127920">
+        <mark key="[" line="85" column="47" />
+        <mark key="]" line="86" column="13" />
+        <mark key="^" line="86" column="13" />
+        <mark key="." line="86" column="13" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/TransactionManager.php" timestamp="1507878484691">
         <mark key="[" line="9" column="0" />
@@ -334,7 +334,7 @@
         <mark key="^" line="115" column="155" />
         <mark key="." line="115" column="155" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Invitations/index.ctp" timestamp="1511927386551" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Invitations/index.ctp" timestamp="1511933378446" />
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Users/edit_confirm.ctp" timestamp="1509073198441">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="79" column="5" />
@@ -562,10 +562,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWxpc3QtYWx0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyCXXJbxgrWCvZBpineDS4NDg1+Dk4NYJyksICIvcmVxdWVzdHMvcmVzZXJ2ZWRHdWlkYW5jZUxpc3QiLCBhcnJheSgiZXNjYXBlIj0+ZmFsc2UpKTsgPz48L2xpPg==</text>
+        <text encoding="base64">aWQ9ImFjdGl2YXRlX3VybF88P3BocCBlY2hvIGgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pOyA/PiI=</text>
       </register>
       <register name="-" type="4">
-        <text>ITEM_GUIDANCE_CATEGORY_TITLE.&quot;(管理者用)&quot;;</text>
+        <text encoding="base64">aWQ9ImFjdGl2YXRlX3VybF88P3BocCBlY2hvIGgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pOyA/PiI=</text>
       </register>
       <register name="/" type="4">
         <text>service_id</text>
@@ -574,31 +574,31 @@
         <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWxpc3QtYWx0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyCXXJbxgrWCvZBpineDS4NDg1+Dk4NYJyksICIvcmVxdWVzdHMvcmVzZXJ2ZWRHdWlkYW5jZUxpc3QiLCBhcnJheSgiZXNjYXBlIj0+ZmFsc2UpKTsgPz48L2xpPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2V0KCJ0aXRsZV9mb3JfbGF5b3V0IiwgSVRFTV9HVUlEQU5DRV9DQVRFR09SWV9USVRMRS4iKIrHl52O0pdwKSIpOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1dHRvbi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uKCl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHRoaXMtPmFzc2lnbigidGl0bGUiLCAkdGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBidXR0b24gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChlbGVtZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGl0bGUgPSAK</text>
+        <text encoding="base64">ICAgIHZhciBidXR0b25VcmwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY29weUJ1dHRvblVybCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZXh0LWluZm8iPjw/cGhwIGVjaG8gaCgkaXRlbVskbW9kZWxOYW1lXVsicG9pbnRfYWRkIl0pOyA/Pjwvc3Bhbj4K</text>
+        <text encoding="base64">CQkkdGhpcy0+c2V0KCJ0aXRsZV9mb3JfbGF5b3V0IiwgSVRFTV9HVUlEQU5DRV9DQVRFR09SWV9USVRMRS4iKIrHl52O0pdwKSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc21hbGw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCBRgo=</text>
+        <text encoding="base64">JHRoaXMtPmFzc2lnbigidGl0bGUiLCAkdGl0bGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZXh0LXdhcm5pbmciPjw/cGhwIGVjaG8gaCgkaXRlbVskbW9kZWxOYW1lXVsicG9pbnQiXSk7ID8+PC9zcGFuPiZuYnNwOyZuYnNwOzxzbWFsbD48P3BocCBlY2hvICRNLT5nZXRMYWJlbCgicG9pbnRfYWRkIik7ID8+Cg==</text>
+        <text encoding="base64">CQkkdGl0bGUgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzbWFsbD48P3BocCBlY2hvICRNLT5nZXRMYWJlbCgicG9pbnQiKTsgPz6BRjwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZXh0LWluZm8iPjw/cGhwIGVjaG8gaCgkaXRlbVskbW9kZWxOYW1lXVsicG9pbnRfYWRkIl0pOyA/Pjwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
