@@ -414,11 +414,11 @@
         <mark key="^" line="43" column="70" />
         <mark key="." line="43" column="70" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1511937327081">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="92" />
-        <mark key="^" line="28" column="174" />
-        <mark key="." line="28" column="174" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1511943221057">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="11" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Controller/PagesController.php" timestamp="1510643038786">
         <mark key="[" line="111" column="0" />
@@ -566,8 +566,8 @@
       <jump line="667" column="14" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+l4iP6opsk76DfINDg5ODZ4LGgs2BQZeIj+qXXJbxgqKCvYK+gqKCvYNLg0ODX4OTg1iJ74/qgtaTlpP6l4iP6oK1gUGO85V0gsmCxJdwiNOCtYLEgqiC6ILcgrdRUoNSgVuDaILwk8eC3Y2egvGCxYKigr2CvoKtgsaDfINDg5ODZ4LwimyTvoKigr2CvoKvgtyCt4FCPC9wPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWNvbW1lbnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+Jy5fXygnIIKol0aSQoLwj7WR0oK3guknKSwgIi9pbnZpdGF0aW9ucyIsIGFycmF5KCJlc2NhcGUiPT5mYWxzZSkpOyA/PjwvbGk+</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9tYXJrPg==</text>
@@ -576,7 +576,7 @@
         <text>service_id</text>
       </register>
       <register name="0" type="4">
-        <text>来場予約いただいたガイダンス会場へ当日来場し、受付にて用意しておりますQRコードを読み込んでいただくとポイントを獲得いただけます。</text>
+        <text encoding="base64">PGxpPjw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWNvbW1lbnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+Jy5fXygnIIKol0aSQoLwj7WR0oK3guknKSwgIi9pbnZpdGF0aW9ucyIsIGFycmF5KCJlc2NhcGUiPT5mYWxzZSkpOyA/PjwvbGk+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHA+l4iP6opsk76DfINDg5ODZ4LGgs2BQZeIj+qXXJbxgqKCvYK+gqKCvYNLg0ODX4OTg1iJ74/qgtaTlpP6l4iP6oK1gUGO85V0gsmCxJdwiNOCtYLEgqiC6ILcgrdRUoNSgVuDaILwk8eC3Y2egvGCxYKigr2CvoKtgsaDfINDg5ODZ4LwimyTvoKigr2CvoKvgtyCt4FCPC9wPgo=</text>
