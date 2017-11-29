@@ -141,11 +141,11 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Item.php" timestamp="1511847525929">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="35" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/Model/Item.php" timestamp="1511940216979">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/msg_auth.ctp" timestamp="1508134529714">
         <mark key="[" line="2" column="46" />
@@ -402,11 +402,11 @@
         <mark key="." line="47" column="71" />
         <mark key="^" line="47" column="71" />
       </file>
-      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1510883890982">
-        <mark key="[" line="128" column="52" />
-        <mark key="]" line="128" column="71" />
-        <mark key="." line="128" column="71" />
-        <mark key="^" line="128" column="71" />
+      <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" timestamp="1511941120506">
+        <mark key="[" line="130" column="19" />
+        <mark key="]" line="130" column="36" />
+        <mark key="." line="130" column="36" />
+        <mark key="^" line="130" column="36" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/Model/ImageMessageHandler.php" timestamp="1508401635409">
         <mark key="[" line="43" column="71" />
@@ -566,8 +566,8 @@
       <jump line="667" column="14" filename="D:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PD9waHAgaWYgKCRsb2dpblVzZXJbInJvbGUiXSA9PSAiYWRtaW4iIHx8ICRsb2dpblVzZXJbInJvbGUiXSA9PSAic3RhZmYiKTogPz4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHA+l4iP6opsk76DfINDg5ODZ4LGgs2BQZeIj+qXXJbxgqKCvYK+gqKCvYNLg0ODX4OTg1iJ74/qgtaTlpP6l4iP6oK1gUGO85V0gsmCxJdwiNOCtYLEgqiC6ILcgrdRUoNSgVuDaILwk8eC3Y2egvGCxYKigr2CvoKtgsaDfINDg5ODZ4LwimyTvoKigr2CvoKvgtyCt4FCPC9wPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9tYXJrPg==</text>
@@ -576,34 +576,34 @@
         <text>service_id</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PD9waHAgaWYgKCRsb2dpblVzZXJbInJvbGUiXSA9PSAiYWRtaW4iIHx8ICRsb2dpblVzZXJbInJvbGUiXSA9PSAic3RhZmYiKTogPz4=</text>
+        <text>来場予約いただいたガイダンス会場へ当日来場し、受付にて用意しておりますQRコードを読み込んでいただくとポイントを獲得いただけます。</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+l4iP6opsk76DfINDg5ODZ4LGgs2BQZeIj+qXXJbxgqKCvYK+gqKCvYNLg0ODX4OTg1iJ74/qgtaTlpP6l4iP6oK1gUGO85V0gsmCxJdwiNOCtYLEgqiC6ILcgrdRUoNSgVuDaILwk8eC3Y2egvGCxYKigr2CvoKtgsaDfINDg5ODZ4LwimyTvoKigr2CvoKvgtyCt4FCPC9wPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9dXT4K</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Ly9dXT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCePtZHSl3BVUkyC8INSg3OBW4K1gtyCtYK9gUInKTsK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCdjb3B5Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCePtZHSl3BVUkyC8INSg3OBW4K1gtyCtYK9gUInKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5hZGRSYW5nZShyYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCdjb3B5Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
