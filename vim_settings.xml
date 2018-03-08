@@ -81,10 +81,10 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1520416343041">
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1520487551529">
         <mark key="'" line="673" column="42" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="4" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="53" column="45" />
         <mark key="." line="792" column="75" />
         <mark key="^" line="792" column="75" />
       </file>
@@ -339,11 +339,11 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventsController.php" timestamp="1520416431949">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventsController.php" timestamp="1520487559523">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Requests/reserved_guidance_detail.ctp" timestamp="1511925706118">
         <mark key="[" line="10" column="17" />
@@ -429,7 +429,7 @@
         <mark key="^" line="80" column="11" />
         <mark key="." line="80" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520416309626">
+      <file name="/Dummy.txt" timestamp="1520487399546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/reserved_guidance.ctp" timestamp="1507690092531">
@@ -498,7 +498,7 @@
         <mark key="^" line="43" column="131" />
         <mark key="." line="43" column="131" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Model/Event.php" timestamp="1520416750775">
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Model/Event.php" timestamp="1520487477795">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -672,8 +672,8 @@
       <jump line="673" column="42" filename="E:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQkkdGhpcy0+c2V0KCJ0aXRsZV9mb3JfbGF5b3V0IiwgIoN6gVuDgCIpOwoJCS8vIGdldCBsb2dpblVzZXIKCQkkbG9naW5Vc2VyID0gJHRoaXMtPkF1dGgtPnVzZXIoKTsKCQkvLyCDTIODg5ODeYFbg5OKWZOWl0yWs4Ngg0aDYoNOCgkJJHJlc3VsdENhbXBhaWduID0gJHRoaXMtPl9jaGVja0NhbXBhaWduKCk7CgkJJHRoaXMtPnNldChjb21wYWN0KCJyZXN1bHRDYW1wYWlnbiIpKTs=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -682,7 +682,7 @@
         <text>getInvi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QXBwOjp1c2VzKCdDYWtlRW1haWwnLCAnTmV0d29yay9FbWFpbCcpOwoKY2xhc3MgVXNlcnNDb250cm9sbGVyIGV4dGVuZHMgQXBwQ29udHJvbGxlciB7CglwdWJsaWMgJHVzZXMgPSBhcnJheSgiVHJhbnNhY3Rpb25NYW5hZ2VyIiwgIlVzZXIiLCAiRnJpZW5kIiwgIlBvaW50IiwgIkludml0YXRpb24iKTsKCXB1YmxpYyAkaGVscGVycyA9IGFycmF5KCJGYXN0Q1NWLkZhc3RDU1YiKTsKCXB1YmxpYyAkY29tcG9uZW50cyA9IGFycmF5KCJDb29raWUiKTsKCglwdWJsaWMgZnVuY3Rpb24gYmVmb3JlRmlsdGVyKCkgewoJCXBhcmVudDo6YmVmb3JlRmlsdGVyKCk7CgkJJHRoaXMtPmxheW91dCA9ICJkZWZhdWx0IjsKCQkkdGhpcy0+QXV0aC0+YWxsb3coInJlZ2lzdCIsICJhY3RpdmF0ZSIsICJhY3RpdmF0ZU1haWwiLCAibG9naW4iLCAicmVnZW5lcmF0ZVBhc3N3b3JkIiwgImlucXVpcnkiKTsKCX0=</text>
+        <text encoding="base64">CQkkdGhpcy0+c2V0KCJ0aXRsZV9mb3JfbGF5b3V0IiwgIoN6gVuDgCIpOwoJCS8vIGdldCBsb2dpblVzZXIKCQkkbG9naW5Vc2VyID0gJHRoaXMtPkF1dGgtPnVzZXIoKTsKCQkvLyCDTIODg5ODeYFbg5OKWZOWl0yWs4Ngg0aDYoNOCgkJJHJlc3VsdENhbXBhaWduID0gJHRoaXMtPl9jaGVja0NhbXBhaWduKCk7CgkJJHRoaXMtPnNldChjb21wYWN0KCJyZXN1bHRDYW1wYWlnbiIpKTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSk7Cg==</text>
