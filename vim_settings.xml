@@ -118,11 +118,11 @@
         <mark key="^" line="4" column="63" />
         <mark key="." line="4" column="63" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Elements/Events/index_grid.ctp" timestamp="1520499258277">
-        <mark key="[" line="59" column="52" />
-        <mark key="]" line="59" column="49" />
-        <mark key="^" line="59" column="49" />
-        <mark key="." line="59" column="49" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Elements/Events/index_grid.ctp" timestamp="1520500817479">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Points/history.ctp" timestamp="1508221612897">
         <mark key="[" line="17" column="12" />
@@ -190,10 +190,10 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="44" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventsController.php" timestamp="1520493545024">
-        <mark key="[" line="43" column="45" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="44" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventsController.php" timestamp="1520500496447">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
       <file name="F:/Develop/Sites/dricom-friends.net/app/View/Users/regist_confirm.ctp" timestamp="1507949841754">
@@ -441,7 +441,7 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Events/index.ctp" timestamp="1520498699053">
+      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Events/index.ctp" timestamp="1520500193074">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="37" />
@@ -703,7 +703,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZXZlbnRzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>, &quot;activate_point_add&quot;</text>
@@ -712,34 +712,34 @@
         <text>title</text>
       </register>
       <register name="0" type="4">
-        <text>required | numeric</text>
+        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+SHRtbC0+bGluaygnPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tb2siIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+Jy5fXygnICcuJGJ1dHRvbiksICIjIiwgYXJyYXkoImNsYXNzIj0+ImJ0biBidG4tc20gYnRuLWluZGlnbzYwMF9yc2QiLCAiZXNjYXBlIj0+ZmFsc2UpKTsgPz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZXZlbnRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxzbWFsbD6N3YzJkJSBRjwvc21hbGw+PHNwYW4gY2xhc3M9InRleHQtZGFuZ2VyIj6OY4LoPD9waHAgZWNobyBoKCRpdGVtWyRtb2RlbE5hbWVdWyJzdG9jayJdKTsgPz6Mwjwvc3Bhbj48L2xpPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCRpdGVtWyRtb2RlbE5hbWVdWyJzdG9jayJdID09PSAxKTogPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCRwYXJlbnRDYXRlZ29yeUlkID09IElURU1fR1VJREFOQ0VfQ0FURUdPUlkpOiA/Pgo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCRwYXJlbnRDYXRlZ29yeUlkID09IElURU1fR1VJREFOQ0VfQ0FURUdPUlkpOiA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5Gb3JtLT5idXR0b24oJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLW9rIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyAnLiRidXR0b24pLCBhcnJheSgidHlwZSI9PiJidXR0b24iLCAiY2xhc3MiPT4iYnRuIGJ0bi1kZWVwb3JhbmdlNjAwX3JzZCBidG4tbWQgYnRuLWJsb2NrIiwgIm9uY2xpY2siPT4iYWpheEFkZENhcnQoIi5oKCRpdGVtWyRtb2RlbE5hbWVdWyJpZCJdKS4iKSIsICJpZCI9PiJhamF4QWRkQ2FydF8iLmgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pLCAiZGlzYWJsZWQiPT4iZGlzYWJsZWQiLCAiZXNjYXBlIj0+ZmFsc2UpKTsgPz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5Gb3JtLT5idXR0b24oJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLW9rIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicuX18oJyAnLiRidXR0b24pLCBhcnJheSgidHlwZSI9PiJidXR0b24iLCAiY2xhc3MiPT4iYnRuIGJ0bi1kZWVwb3JhbmdlNjAwX3JzZCBidG4tbWQgYnRuLWJsb2NrIiwgIm9uY2xpY2siPT4iYWpheEFkZENhcnQoIi5oKCRpdGVtWyRtb2RlbE5hbWVdWyJpZCJdKS4iKSIsICJpZCI9PiJhamF4QWRkQ2FydF8iLmgoJGl0ZW1bJG1vZGVsTmFtZV1bImlkIl0pLCAiZXNjYXBlIj0+ZmFsc2UpKTsgPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxzbWFsbD48P3BocCBlY2hvICRNLT5nZXRMYWJlbCgicG9pbnQiKTsgPz6BRjwvc21hbGw+PHNwYW4gY2xhc3M9InRleHQtd2FybmluZyI+PD9waHAgZWNobyBoKCRpdGVtWyRtb2RlbE5hbWVdWyJwb2ludCJdKTsgPz48L3NwYW4+Jm5ic3A7Jm5ic3A7PHNtYWxsPjw/cGhwIGVjaG8gJE0tPmdldExhYmVsKCJwb2ludF9hZGQiKTsgPz6BRjwvc21hbGw+PHNwYW4gY2xhc3M9InRleHQtaW5mbyI+PD9waHAgZWNobyBoKCRpdGVtWyRtb2RlbE5hbWVdWyJwb2ludF9hZGQiXSk7ID8+PC9zcGFuPjwvbGk+Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8P3BocCAvL2VjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXNob3BwaW5nLWNhcnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+JyAuIF9fKCcgJy4kYnV0dG9uKSwgIiMiLCBhcnJheSgiY2xhc3MiID0+ICJidG4gYnRuLWRlZXBvcmFuZ2U2MDBfcnNkIGJ0bi1tZCBidG4tYmxvY2siLCAiZGlzYWJsZWQiID0+ICJkaXNhYmxlZCIsICJlc2NhcGUiID0+IGZhbHNlKSk7ID8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -777,6 +777,7 @@
       <history-cmd>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
