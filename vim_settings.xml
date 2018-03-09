@@ -511,6 +511,12 @@
         <mark key="^" line="25" column="247" />
         <mark key="." line="25" column="247" />
       </file>
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Model/EventRegister.php" timestamp="1520578312270">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="59" column="39" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Users/edit_confirm.ctp" timestamp="1509073198441">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="79" column="5" />
@@ -568,10 +574,10 @@
         <mark key="^" line="43" column="131" />
         <mark key="." line="43" column="131" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Model/Event.php" timestamp="1520575160600">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Model/Event.php" timestamp="1520578322232">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
       <file name="E:/Develop/Sites/dricom-friends.net/app/Model/Item.php" timestamp="1520492978352">
@@ -714,8 +720,8 @@
       <jump line="112" column="25" filename="E:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImxpbmUtYnJlYWsiPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJ2lkX3RtcCcJCT0+ICdyZXF1aXJlZCB8IG51bWVyaWMnLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHNwYW4gY2xhc3M9ImxpbmUtYnJlYWsiPg==</text>
@@ -724,34 +730,34 @@
         <text>title</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGxpPjxzbWFsbD48P3BocCBlY2hvICRNLT5nZXRMYWJlbCgiZXZlbnRfZGF0ZSIpOyA/PoFGPC9zbWFsbD48c3BhbiBjbGFzcz0idGV4dC1pbmZvIj48P3BocCBlY2hvIGgoJHRoaXMtPkFwcEh0bWwtPmRmKCRldmVudFskbW9kZWxOYW1lXVsiZXZlbnRfZGF0ZSJdKSk7ID8+PC9zcGFuPjwvbGk+</text>
+        <text encoding="base64">J2V2ZW50X2lkJwkJPT4gJ3JlcXVpcmVkIHwgbnVtZXJpYycs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ2lkX3RtcCcJCT0+ICdyZXF1aXJlZCB8IG51bWVyaWMnLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJJ2lkX3RtcCcJCT0+ICdyZXF1aXJlZCB8IG51bWVyaWMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHJldHVybjsK</text>
+        <text encoding="base64">CQkJJ25hbWUnIAkJCT0+ICdyZXF1aXJlZCB8IG1heExlblsyNTVdJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkiYWN0aXZhdGVfZXhwaXJlIiA9PiAilEaP2I9Jl7mT+o6eIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkiYWN0aXZhdGVfcG9pbnRfYWRkIiA9PiAil4iP6opsk76DfINDg5ODZyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSRyZXR1cm4gLj0gJHRoaXMtPmhpZGRlbigiJG1vZGVsTmFtZS4ka2V5IikuIlxuIjsK</text>
+        <text encoding="base64">CQkiZXhwaXJlIiAgICAgICA9PiAijGaN2o9Jl7mT+o6eIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlpZiAoaW5fYXJyYXkoJGtleSwgJG9wdGlvbnNbImV4Y2x1ZGUiXSwgdHJ1ZSkpIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
