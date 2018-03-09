@@ -190,9 +190,9 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="44" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventsController.php" timestamp="1520576536499">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="5" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventsController.php" timestamp="1520579201857">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="17" column="4" />
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
@@ -357,6 +357,12 @@
         <mark key="." line="629" column="38" />
         <mark key="^" line="629" column="38" />
       </file>
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/EventRegistersController.php" timestamp="1520579290086">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+      </file>
       <file name="F:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1507949247625">
         <mark key="[" line="661" column="65" />
         <mark key="]" line="661" column="62" />
@@ -426,10 +432,6 @@
         <mark key="]" line="20" column="184" />
         <mark key="^" line="20" column="184" />
         <mark key="." line="20" column="184" />
-      </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/global_menu.ctp" timestamp="1518159059527">
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="179" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Requests/points.ctp" timestamp="1507868033186">
         <mark key="[" line="1" column="30" />
@@ -720,8 +722,8 @@
       <jump line="112" column="25" filename="E:/Develop/Sites/dricom-friends.net/app/View/Elements/Layouts/modal.ctp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJ2lkX3RtcCcJCT0+ICdyZXF1aXJlZCB8IG51bWVyaWMnLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QXBwOjp1c2VzKCdDYWtlRW1haWwnLCAnTmV0d29yay9FbWFpbCcpOwoKY2xhc3MgRXZlbnRzQ29udHJvbGxlciBleHRlbmRzIEFwcENvbnRyb2xsZXIgewoJcHVibGljICR1c2VzID0gYXJyYXkoIlRyYW5zYWN0aW9uTWFuYWdlciIsICJFdmVudCIsICJFdmVudHNSZXF1ZXN0SGlzdG9yeSIsICJVc2VyIiwgIlJlcXVlc3RIaXN0b3J5IiwgIlBvaW50Iik7CgkvL3B1YmxpYyAkaGVscGVycyA9IGFycmF5KCk7CglwdWJsaWMgJGNvbXBvbmVudHMgPSBhcnJheSgiQ29va2llIik7CgoJcHVibGljIGZ1bmN0aW9uIGJlZm9yZUZpbHRlcigpIHsKCQlwYXJlbnQ6OmJlZm9yZUZpbHRlcigpOwoJCSR0aGlzLT5sYXlvdXQgPSAiZGVmYXVsdCI7Cgl9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHNwYW4gY2xhc3M9ImxpbmUtYnJlYWsiPg==</text>
@@ -730,7 +732,7 @@
         <text>title</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">J2V2ZW50X2lkJwkJPT4gJ3JlcXVpcmVkIHwgbnVtZXJpYycs</text>
+        <text encoding="base64">QXBwOjp1c2VzKCdDYWtlRW1haWwnLCAnTmV0d29yay9FbWFpbCcpOwoKY2xhc3MgRXZlbnRzQ29udHJvbGxlciBleHRlbmRzIEFwcENvbnRyb2xsZXIgewoJcHVibGljICR1c2VzID0gYXJyYXkoIlRyYW5zYWN0aW9uTWFuYWdlciIsICJFdmVudCIsICJFdmVudHNSZXF1ZXN0SGlzdG9yeSIsICJVc2VyIiwgIlJlcXVlc3RIaXN0b3J5IiwgIlBvaW50Iik7CgkvL3B1YmxpYyAkaGVscGVycyA9IGFycmF5KCk7CglwdWJsaWMgJGNvbXBvbmVudHMgPSBhcnJheSgiQ29va2llIik7CgoJcHVibGljIGZ1bmN0aW9uIGJlZm9yZUZpbHRlcigpIHsKCQlwYXJlbnQ6OmJlZm9yZUZpbHRlcigpOwoJCSR0aGlzLT5sYXlvdXQgPSAiZGVmYXVsdCI7Cgl9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJJ2lkX3RtcCcJCT0+ICdyZXF1aXJlZCB8IG51bWVyaWMnLAo=</text>
