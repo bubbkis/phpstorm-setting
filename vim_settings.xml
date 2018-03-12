@@ -38,11 +38,11 @@
         <mark key="^" line="65" column="296" />
         <mark key="." line="65" column="296" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/View/EventRegisters/regist_confirm.ctp" timestamp="1520589628985">
-        <mark key="[" line="6" column="76" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/View/EventRegisters/regist_confirm.ctp" timestamp="1520831380610">
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="41" />
+        <mark key="." line="57" column="41" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="D:/Develop/Sites/dricom-friends.net/app/View/Elements/Guidances/breadcrumb.ctp" timestamp="1511769556281">
         <mark key="[" line="11" column="0" />
@@ -57,7 +57,6 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="792" column="75" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Users/regist.ctp" timestamp="1520582600691" />
       <file name="F:/Develop/Sites/dricom-friends.net/app/Model/User.php" timestamp="1508077098060">
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
@@ -220,7 +219,6 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/View/Elements/Users/edit_input.ctp" timestamp="1520586837246" />
       <file name="F:/Develop/Sites/dricom-friends.net/app/View/Users/regist_confirm.ctp" timestamp="1507949841754">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="47" />
