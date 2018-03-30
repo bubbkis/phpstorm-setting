@@ -51,6 +51,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/UsersController.php" timestamp="1522384526558">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="F:/Develop/Sites/dricom-friends.net/app/Model/User.php" timestamp="1508077098060">
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
@@ -356,11 +362,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1520576598654">
-        <mark key="[" line="35" column="101" />
-        <mark key="]" line="35" column="107" />
-        <mark key="^" line="35" column="107" />
-        <mark key="." line="35" column="107" />
+      <file name="E:/Develop/Sites/dricom-friends.net/app/Controller/AppController.php" timestamp="1522384498670">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="69" column="37" />
+        <mark key="^" line="67" column="49" />
+        <mark key="." line="67" column="49" />
       </file>
       <file name="E:/Develop/Sites/dricom-friends.net/app/Model/User.php" timestamp="1520843234735">
         <mark key="[" line="142" column="0" />
@@ -744,7 +750,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CTw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj5OZXc8L3NwYW4+Jm5ic3A7PHNtYWxsIGNsYXNzPSJ0ZXh0LWluZm8iPjIwMTiUTjOMjjIyk/o8L3NtYWxsPiZuYnNwO4NJgVuDdoOTg0yDg4OTg3CDWI/ulfGC8IFCJywgIi9ldmVudHMiLCBhcnJheSgiY2xhc3MiPT4ibGlzdC1ncm91cC1pdGVtIiwgICJlc2NhcGUiPT5mYWxzZSkpOyA/Pgo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
         <text>// check already exist EverntRegister</text>
@@ -753,22 +759,22 @@
         <text>modal</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+SHRtbC0+bGluaygnPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXdhcm5pbmciPk5ldzwvc3Bhbj4mbmJzcDs8c21hbGwgY2xhc3M9InRleHQtaW5mbyI+MjAxOJROMYyOMjWT+jwvc21hbGw+Jm5ic3A7TElORYLFgqiXRpJCgvCPtZHSgreC6YKxgsaCqo9vl4iC6YLmgqSCyYLIguiC3IK1gr2BQicsICIvaW52aXRhdGlvbnMiLCBhcnJheSgiY2xhc3MiPT4ibGlzdC1ncm91cC1pdGVtIiwgImVzY2FwZSI9PmZhbHNlKSk7ID8+</text>
+        <text encoding="base64">CQkJCSRtZXNzYWdlID0gIpHeie+Nz4LdgsWCt4FClnuDVIFbg3KDWILNgrKXmJdwj2+XiILcgrmC8YFCIjsKCQkJCSR0aGlzLT5TZXNzaW9uLT5zZXRGbGFzaChfXygkbWVzc2FnZSksICJkZWZhdWx0IiwgYXJyYXkoKSwgImF1dGgiKTsKCQkJCSR0aGlzLT5BdXRoLT5sb2dvdXQoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj5OZXc8L3NwYW4+Jm5ic3A7PHNtYWxsIGNsYXNzPSJ0ZXh0LWluZm8iPjIwMTiUTjOMjjIyk/o8L3NtYWxsPiZuYnNwO4NJgVuDdoOTg0yDg4OTg3CDWI/ulfGC8IFCJywgIi9ldmVudHMiLCBhcnJheSgiY2xhc3MiPT4ibGlzdC1ncm91cC1pdGVtIiwgICJlc2NhcGUiPT5mYWxzZSkpOyA/Pgo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
+        <text encoding="base64">CQkJCQkkdGhpcy0+U2Vzc2lvbi0+c2V0Rmxhc2goX18oJG1lc3NhZ2UpLCAiZGVmYXVsdCIsIGFycmF5KCksICJhdXRoIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
+        <text encoding="base64">CTw/cGhwIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj5OZXc8L3NwYW4+Jm5ic3A7PHNtYWxsIGNsYXNzPSJ0ZXh0LWluZm8iPjIwMTiUTjOMjjIyk/o8L3NtYWxsPiZuYnNwO4NJgVuDdoOTg0yDg4OTg3CDWI/ulfGC8IFCJywgIi9ldmVudHMiLCBhcnJheSgiY2xhc3MiPT4ibGlzdC1ncm91cC1pdGVtIiwgICJlc2NhcGUiPT5mYWxzZSkpOyA/Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
@@ -777,10 +783,10 @@
         <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlDb25maWd1cmU6OndyaXRlKCdkZWJ1ZycsIDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPoNfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZ4Nfg36BW4Nlg0yDWINng1+DfoFbg2WDTINYg2eDX4N+gVuDZYNMg1iDZzwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
